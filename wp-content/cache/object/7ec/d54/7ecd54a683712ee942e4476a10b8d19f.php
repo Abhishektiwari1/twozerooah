@@ -1,0 +1,11 @@
+ÍO–[<?php exit; ?>a:1:{s:7:"content";a:9:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:58:"https://clk.omgt5.com/?AID=1561508&PID=15281&UID=oahswiggy";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5644";}s:16:"_wpc_store_image";a:1:{i:0;s:66:"https://www.offersathome.com/wp-content/uploads/2018/09/SWIGGY.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:2:"29";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"3";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:16:"_wpc_is_featured";a:1:{i:0;s:2:"on";}s:11:"_wpc_go_out";a:1:{i:0;s:2:"31";}s:15:"_wpc_extra_info";a:1:{i:0;s:1470:"<strong>About Swiggy</strong>
+
+Swiggy is a food ordering and delivery company providing complete food ordering and delivery solution. They have their own delivery team to pickup orders from restaurants and deliver it to the customer. The process is very simple, you have to select the restaurant and order your food from the delicious and elaborate food menu on the site. After your order is complete ,a delivery executive will be assigned to you who will pickup the order from the restaurant and will deliver it to your doorstep.The best part is that from the moment your food is ordered to it reaching to your plate, it can be tracked by GPS.
+
+<strong>How Swiggy deals and offers work at OffersAtHome?</strong>
+
+To make customers food fantasy fulfilled every time, Swiggy bring promotional discount and offers to its customers, so that you can order bellyful. Enjoy discount on all orders. We can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Swiggy carefully curated for you. Click on the offers that fit into your requirements and click on go store and complete your order hassle free and we will be your perfect saving partner.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/zomato/">Zomato</a>|<a href="https://www.offersathome.com/store/foodpanda/">Foodpanda</a>|<a href="https://www.offersathome.com/store/box8/">Box8</a>";}}}

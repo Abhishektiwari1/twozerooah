@@ -1,0 +1,143 @@
+0000.000 (0) Opened log file at time: Thu, 30 Aug 2018 13:23:36 +0000 on https://www.offersathome.com
+0000.013 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.13 WP: 4.9.8 PHP: 7.1.18 (litespeed, Linux sg2plcpnl0236.prod.sin2.secureserver.net 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.39 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 3000M (used: 36.3M | 38M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: N
+0000.391 (0) Free space on disk containing Updraft's temporary directory: 1712102.2 MB
+0000.409 (0) Tasks: Backup files: 0 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.469 (0) Semaphore (d, wp_options) being initialised
+0000.482 (0) Requesting semaphore lock (d) (apparently not via scheduler)
+0000.485 (0) Set semaphore last lock (d) time to 2018-08-30 13:23:37
+0000.486 (0) Semaphore lock (d) complete
+0000.494 (0) Backup run: resumption=0, nonce=d02cfd287236, begun at=1535635416 (1s ago), job type=backup
+0000.503 (0) Scheduling a resumption (1) after 300 seconds (1535635717) in case this run gets aborted
+0000.572 (0) This backup run is not intended for files - skipping
+0000.579 (0) Beginning creation of database dump (WordPress DB)
+0000.595 (0) Testing: /usr/bin/mysqldump
+0000.722 (0) Binary mysqldump: error (code: 2)
+0000.757 (0) Table wp_options: Total expected rows (approximate): 869
+0001.063 (0) Table wp_options: Total rows added: 865 in 0.31 seconds
+0001.071 (0) Table wp_options: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_options.table.gz - 264.7 KB)
+0001.080 (0) Table wp_users: Total expected rows (approximate): 8
+0001.084 (0) Table wp_users: Total rows added: 8 in 0.00 seconds
+0001.084 (0) Table wp_users: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_users.table.gz - 1.2 KB)
+0001.106 (0) Table wp_usermeta: Total expected rows (approximate): 226
+0001.116 (0) Table wp_usermeta: Total rows added: 226 in 0.01 seconds
+0001.117 (0) Table wp_usermeta: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_usermeta.table.gz - 7.2 KB)
+0001.132 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0001.135 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0001.137 (0) Table wp_commentmeta: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0001.146 (0) Table wp_comments: Total expected rows (approximate): 1
+0001.151 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0001.152 (0) Table wp_comments: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_comments.table.gz - 0.7 KB)
+0001.168 (0) Table wp_links: Total expected rows (approximate): 7
+0001.172 (0) Table wp_links: Total rows added: 7 in 0.00 seconds
+0001.173 (0) Table wp_links: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_links.table.gz - 0.6 KB)
+0001.178 (0) Table wp_postmeta: Total expected rows (approximate): 18459
+0002.302 (0) Table wp_postmeta: Total rows added: 18459 in 1.12 seconds
+0002.307 (0) Table wp_postmeta: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_postmeta.table.gz - 209.5 KB)
+0002.322 (0) Table wp_posts: Total expected rows (approximate): 1313
+0002.810 (0) Table wp_posts: Total rows added: 1313 in 0.49 seconds
+0002.814 (0) Table wp_posts: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_posts.table.gz - 435.9 KB)
+0002.832 (0) Table wp_term_relationships: Total expected rows (approximate): 3630
+0002.851 (0) Table wp_term_relationships: Total rows added: 3630 in 0.02 seconds
+0002.853 (0) Table wp_term_relationships: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_term_relationships.table.gz - 10.9 KB)
+0002.858 (0) Table wp_term_taxonomy: Total expected rows (approximate): 1019
+0002.875 (0) Table wp_term_taxonomy: Total rows added: 1019 in 0.02 seconds
+0002.875 (0) Table wp_term_taxonomy: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_term_taxonomy.table.gz - 34.6 KB)
+0002.878 (0) Table wp_termmeta: Total expected rows (approximate): 630
+0002.895 (0) Table wp_termmeta: Total rows added: 630 in 0.01 seconds
+0002.896 (0) Table wp_termmeta: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_termmeta.table.gz - 22.9 KB)
+0002.899 (0) Table wp_terms: Total expected rows (approximate): 1019
+0002.921 (0) Table wp_terms: Total rows added: 1019 in 0.02 seconds
+0002.922 (0) Table wp_terms: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_terms.table.gz - 13.4 KB)
+0002.935 (0) Table wp_es_deliverreport: Total expected rows (approximate): 3
+0002.938 (0) Table wp_es_deliverreport: Total rows added: 3 in 0.00 seconds
+0002.939 (0) Table wp_es_deliverreport: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_deliverreport.table.gz - 0.6 KB)
+0002.942 (0) Table wp_es_emaillist: Total expected rows (approximate): 12
+0002.946 (0) Table wp_es_emaillist: Total rows added: 12 in 0.00 seconds
+0002.948 (0) Table wp_es_emaillist: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_emaillist.table.gz - 1 KB)
+0002.953 (0) Table wp_es_notification: Total expected rows (approximate): 1
+0002.956 (0) Table wp_es_notification: Total rows added: 1 in 0.00 seconds
+0002.957 (0) Table wp_es_notification: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_notification.table.gz - 0.5 KB)
+0002.960 (0) Table wp_es_sentdetails: Total expected rows (approximate): 3
+0002.963 (0) Table wp_es_sentdetails: Total rows added: 3 in 0.00 seconds
+0002.964 (0) Table wp_es_sentdetails: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_sentdetails.table.gz - 1.4 KB)
+0002.967 (0) Table wp_ewwwio_images: Total expected rows (approximate): 8
+0002.971 (0) Table wp_ewwwio_images: Total rows added: 8 in 0.00 seconds
+0002.971 (0) Table wp_ewwwio_images: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_ewwwio_images.table.gz - 0.9 KB)
+0002.975 (0) Table wp_social_users: Total expected rows (approximate): 4
+0002.978 (0) Table wp_social_users: Total rows added: 4 in 0.00 seconds
+0002.979 (0) Table wp_social_users: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_social_users.table.gz - 0.4 KB)
+0002.982 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 25
+0002.988 (0) Table wp_yoast_seo_links: Total rows added: 25 in 0.01 seconds
+0002.990 (0) Table wp_yoast_seo_links: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_yoast_seo_links.table.gz - 0.9 KB)
+0002.998 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 1162
+0003.005 (0) Table wp_yoast_seo_meta: Total rows added: 1162 in 0.01 seconds
+0003.007 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_yoast_seo_meta.table.gz - 3.3 KB)
+0003.009 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_options.table.gz (1/20): adding to final database dump
+0003.129 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_users.table.gz (2/20): adding to final database dump
+0003.130 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_usermeta.table.gz (3/20): adding to final database dump
+0003.133 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_commentmeta.table.gz (4/20): adding to final database dump
+0003.134 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_comments.table.gz (5/20): adding to final database dump
+0003.136 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_links.table.gz (6/20): adding to final database dump
+0003.140 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_postmeta.table.gz (7/20): adding to final database dump
+0003.250 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_posts.table.gz (8/20): adding to final database dump
+0003.365 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_term_relationships.table.gz (9/20): adding to final database dump
+0003.372 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_term_taxonomy.table.gz (10/20): adding to final database dump
+0003.381 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_termmeta.table.gz (11/20): adding to final database dump
+0003.388 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_terms.table.gz (12/20): adding to final database dump
+0003.393 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_deliverreport.table.gz (13/20): adding to final database dump
+0003.394 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_emaillist.table.gz (14/20): adding to final database dump
+0003.395 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_notification.table.gz (15/20): adding to final database dump
+0003.396 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_es_sentdetails.table.gz (16/20): adding to final database dump
+0003.396 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_ewwwio_images.table.gz (17/20): adding to final database dump
+0003.397 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_social_users.table.gz (18/20): adding to final database dump
+0003.398 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_yoast_seo_links.table.gz (19/20): adding to final database dump
+0003.399 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db-table-wp_yoast_seo_meta.table.gz (20/20): adding to final database dump
+0003.400 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz: finished writing out complete database file (976 KB)
+0003.419 (0) Total database tables backed up: 20 (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz, size: 1032246, sha256)
+0003.424 (0) backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz: db: This file has not yet been successfully uploaded: will queue
+0003.424 (0) Saving backup history. Total backup size: 1008.1 KB
+0003.427 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0003.429 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0003.429 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-90bc6ebcf9030a0a455acda0c1f532fd)
+0003.430 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0003.473 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0003.971 (0) Dropbox quota usage: used=652 MB, total=2048 MB, available=1396 MB
+0003.972 (0) Dropbox: Attempt to upload: backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz to: backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz
+0004.881 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAJ_6Vctd05bSWw, 1032246, 1024 KB)
+0008.259 (0) Recording as successfully uploaded: backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz
+0008.265 (0) Deleting local file: backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz: OK
+0008.267 (0) Dropbox: File upload success (backup_2018-08-30-1853_OffersAtHome_d02cfd287236-db.gz): 1008 KB in 4s (234 KB/s)
+0008.273 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.276 (0) Number of backup sets in history: 3; groups (db): 1
+0008.277 (0) Examining (for databases) backup set with group_id=0, nonce=d02cfd287236, datestamp=1535635416 (Aug 30 2018 13:23:36)
+0008.278 (0) This backup set is the backup set just made, so will not be deleted.
+0008.278 (0) Examining (for databases) backup set with group_id=0, nonce=696b417e42c7, datestamp=1535622709 (Aug 30 2018 09:51:49)
+0008.278 (0) PHP event: code E_NOTICE: Undefined index: others (line 664, wp-content/plugins/updraftplus/backup.php)
+0008.279 (0) This backup set (1535622709) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.279 (0) Examining (for databases) backup set with group_id=0, nonce=e6bce0548202, datestamp=1535567326 (Aug 29 2018 18:28:46)
+0008.279 (0) PHP event: code E_NOTICE: Undefined index: others (line 664, wp-content/plugins/updraftplus/backup.php)
+0008.279 (0) This backup set (1535567326) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.279 (0) Number of backup sets in history: 3; groups (files): 1
+0008.280 (0) Examining (for files) backup set with nonce=d02cfd287236, datestamp=1535635416 (Aug 30 2018 13:23:36)
+0008.280 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0008.281 (0) Examining (for files) backup set with nonce=696b417e42c7, datestamp=1535622709 (Aug 30 2018 09:51:49)
+0008.281 (0) This backup set (1535622709) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.281 (0) This backup set (1535622709) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.281 (0) This backup set (1535622709) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.281 (0) This backup set (1535622709) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.281 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0008.282 (0) Examining (for files) backup set with nonce=e6bce0548202, datestamp=1535567326 (Aug 29 2018 18:28:46)
+0008.282 (0) This backup set (1535567326) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.282 (0) This backup set (1535567326) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.282 (0) This backup set (1535567326) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.282 (0) This backup set (1535567326) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0008.282 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0008.282 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0008.286 (0) Resume backup (d02cfd287236, 0): finish run
+0008.289 (0) Decremented the semaphore (d) by 1
+0008.291 (0) Semaphore (d) unlocked
+0008.292 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0008.312 (0) Fetching RSS news feed
+0008.390 (0) Fetched RSS news feed; result is a: SimplePie
+0008.425 (0) Sending email ('Database only (files were not part of this particular schedule)') report (attachments: 0, size: 0 KB) to: abhis...
+0008.851 (0) The backup apparently succeeded and is now complete

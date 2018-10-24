@@ -1,0 +1,11 @@
+ÒO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5671";}s:16:"_wpc_store_image";a:1:{i:0;s:67:"https://www.offersathome.com/wp-content/uploads/2018/09/BIOTIQE.png";}s:18:"_wpc_store_aff_url";a:1:{i:0;s:48:"https://www.biotique.com?utm_source=offersathome";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"3";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:2:"10";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:1:"5";}s:15:"_wpc_extra_info";a:1:{i:0;s:1777:"<strong>About Biotique</strong>
+
+Throughout the years, there have been nonstop endeavors in figuring out how to utilize ayurveda for reviving and therapeutic purposes. In time, a whole branch of medicine devoted all of its assets and time figuring out the manner by which Ayurveda can be bring into totality. With an intend to grow normally inferred and propelled answers for skin and hair, Biotique began creating items. Biotique utilizes propelled Ayurveda and exclusively centers around all-encompassing mending and change. The brand was set up in 1992 by Vinita Jain. In the wake of taking in ayurvedic strategies from her family and further having contemplated in the comparative field, she began Biotique. The organization gives natural excellence items. The biotique family comprises of qualified ayurvedic specialists, swiss cosmetologists, researchers who go for conveying the best of medication from the east and west.
+
+<strong>How Biotique deals and offers work at OffersAtHome?</strong>
+
+Biotique bring promotional discount and offers to its customers. Enjoy discount on all orders. We can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Biotique carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete your shopping hasslefree.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/nykaa/">Nykaa</a>|<a href="https://www.offersathome.com/store/soulflower/">Soulflower</a>|<a href="https://www.offersathome.com/store/amazon/">Amazon</a>|<a href="https://www.offersathome.com/store/paytmmall/">PaytmMall</a>|<a href="https://www.offersathome.com/store/bigbasket/">BigBasket</a>";}}}

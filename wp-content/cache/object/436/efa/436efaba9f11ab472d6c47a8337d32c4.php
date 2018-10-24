@@ -1,0 +1,11 @@
+ÒO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5536";}s:15:"_wpc_extra_info";a:1:{i:0;s:1672:"<strong>About Box8</strong>
+
+Box8 is an online food delivery platform that allows food lovers to enjoy the delicacies from different cuisines at the leisure of their home. You can order food online and get it delivered under 38 minutes, all you need to do is - select your nearest outlet listed in their menu and place the order. Box8 is a Mumbai based company started in 2012 by Mr. Amit Raj and Mr. Anshul Gupta. When they launched, they started operations in Mumbai, Pune, and Bangalore. But now they deliver food in almost all tier A and tier B cities. They offer unmatched service with on time delivery, which gives the fine dining experience to the users at the comfort of their homes and at a much reasonable rates. The orders can be given through both the platforms i.e. through app and website both and is available around Mumbai, Pune and Bangalore.
+
+<strong>How Box8 deals and offers work at OffersAtHome?</strong>
+
+Box8 in its efforts to make foodies happy, thrives to produce many saving opportunities for them in the form of promotional offers, deals and coupon codes. To make this process effortless for our customers, OffersAtHome has carefully curated all latest Box8 food deals and offers here on this page. Buy your meal with us by using Box8 coupons and deals and get price deductions on the overall order amount and leave all the worries about your budget.
+
+Related Stores
+
+<a href="https://www.offersathome.com/store/swiggy/">Swiggy</a>|<a href="https://www.offersathome.com/store/zomato/">Zomato</a>|<a href="https://www.offersathome.com/store/foodpanda/">Foodpanda</a>|<a href="https://www.offersathome.com/store/uber-eats/">Uber Eats</a>";}s:18:"_wpc_store_aff_url";a:1:{i:0;s:69:"https://box8.in/category?utm_source=offersathome&utm_medium=affiliate";}s:16:"_wpc_store_image";a:1:{i:0;s:64:"https://www.offersathome.com/wp-content/uploads/2018/09/box8.png";}s:11:"_wpc_go_out";a:1:{i:0;s:1:"6";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"7";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"3";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}}}

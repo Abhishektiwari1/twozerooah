@@ -1,0 +1,7 @@
+ÈO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:44:"https://clk.omgt5.com/?AID=1561508&PID=33305";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5648";}s:16:"_wpc_store_image";a:1:{i:0;s:68:"https://www.offersathome.com/wp-content/uploads/2018/09/snaldeal.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"3";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"9";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:1:"8";}s:15:"_wpc_extra_info";a:1:{i:0;s:1085:"<strong>About Snapdeal</strong>
+
+Snapdeal is the fastest growing e-commerce portal in India. It was started in 2009 as an everyday bargain webpage and now is a multi-item web based shopping entrance. It is a saving focused website offering a wide range of products to its 20 million customers nationwide. They serve in almost 4000 plus cities and towns for over 6000 featured brand. They also launch a new product every year. They sell products like apparel, appliances, home kitchen, e-Learning, toys, automotive and much more.
+
+<strong>How Snapdeal and offers work at OffersAtHome?</strong>
+
+Snapdeal brings promotional offers and discounts for its customers. Enjoy great offers on products. Snapdeal is offering a discount on select orders and other amazing deals on others, we can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Snapdeal carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete your shopping hassle free.";}}}

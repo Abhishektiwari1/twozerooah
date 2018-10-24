@@ -1,0 +1,11 @@
+ÒO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:64:"http://tracking.vcommission.com/aff_c?offer_id=7791&aff_id=78587";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5669";}s:16:"_wpc_store_image";a:1:{i:0;s:66:"https://www.offersathome.com/wp-content/uploads/2018/09/BEARDO.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"2";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"8";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:2:"16";}s:15:"_wpc_extra_info";a:1:{i:0;s:1571:"<strong>About Beardo</strong>
+
+The inception of Beardo came from the void of alternatives available for the urban male who are uptight and advanced. One who likes to develop and keep up his whiskers however has no option other than utilizing standard oils or unacceptable items. Be that as it may, similar to each other incredible hero story, along came a superhuman. Utilizing the choicest fixings and quality controlled assembling forms, Beardo had just a single objective to give the unshaven man the items he needs. Also, to guarantee that his face mane, is spoiled, delicate, glossy and scents perfect, they turned out with the slickest and best items.
+
+<strong>How Beardo deals and offers work at OffersAtHome?</strong>
+
+Beardo brings promotional discount and offers to its customers. Enjoy attractive discount on all orders across the site. We can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Beardo carefully curated for you. Click on the deals that fit into your requirements and click on go store and shop for beard and mustache oil hair wax at unbeatable prices.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/nykaa/">Nykaa</a>|<a href="https://www.offersathome.com/store/happilyunmarried/">Happily Unmarried</a>|<a href="https://www.offersathome.com/store/amazon/">Amazon</a>|<a href="https://www.offersathome.com/store/paytmmall/">PaytmMall</a>|<a href="https://www.offersathome.com/store/aliexpress/">Aliexpress</a>";}}}

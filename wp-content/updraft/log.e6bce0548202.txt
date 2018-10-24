@@ -1,0 +1,302 @@
+0000.000 (0) Opened log file at time: Wed, 29 Aug 2018 18:28:46 +0000 on https://www.offersathome.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.13 WP: 4.9.8 PHP: 7.1.18 (litespeed, Linux sg2plcpnl0236.prod.sin2.secureserver.net 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.39 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 3000M (used: 35.6M | 38M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: N
+0000.130 (0) Free space on disk containing Updraft's temporary directory: 1724836.2 MB
+0000.133 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.139 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.141 (0) Set semaphore last lock (fd) time to 2018-08-29 18:28:46
+0000.142 (0) Semaphore lock (fd) complete
+0000.146 (0) Backup run: resumption=0, nonce=e6bce0548202, begun at=1535567326 (0s ago), job type=backup
+0000.148 (0) Scheduling a resumption (1) after 300 seconds (1535567626) in case this run gets aborted
+0000.165 (0) Checking if we have a zip executable available
+0000.166 (0) Testing: /usr/bin/zip
+0000.173 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.175 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.176 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.176 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.177 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.184 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.185 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.193 (0) Working binary zip found: /usr/bin/zip
+0000.195 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.196 (0) Creation of backups of directories: beginning
+0000.199 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.186 (0) Total entities for the zip file: 674 directories, 3973 files (0 skipped as non-modified), 59.5 MB
+0001.195 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.203 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.211 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.219 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.227 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.228 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.7 MB, 3973 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0007.500 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: size is now: 1.90 MB
+0007.508 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 600 files added (on-disk size: 1973.5 KB)
+0007.514 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 700 files added (on-disk size: 1973.5 KB)
+0007.520 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 800 files added (on-disk size: 1973.5 KB)
+0007.526 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 900 files added (on-disk size: 1973.5 KB)
+0007.532 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1000 files added (on-disk size: 1973.5 KB)
+0007.533 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.1 MB, 3973 files batched, 501 (1002) added so far); re-opening (prior size: 1973.5 KB)
+0011.575 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: size is now: 6.10 MB
+0011.587 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1100 files added (on-disk size: 6263.6 KB)
+0011.595 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1200 files added (on-disk size: 6263.6 KB)
+0011.603 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1300 files added (on-disk size: 6263.6 KB)
+0011.611 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1400 files added (on-disk size: 6263.6 KB)
+0011.619 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1500 files added (on-disk size: 6263.6 KB)
+0011.620 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 3973 files batched, 501 (1503) added so far); re-opening (prior size: 6263.6 KB)
+0017.952 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1600 files added (on-disk size: 7467.4 KB)
+0017.958 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1700 files added (on-disk size: 7467.4 KB)
+0017.967 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1800 files added (on-disk size: 7467.4 KB)
+0017.974 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 1900 files added (on-disk size: 7467.4 KB)
+0017.982 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2000 files added (on-disk size: 7467.4 KB)
+0017.983 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.9 MB, 3973 files batched, 501 (2004) added so far); re-opening (prior size: 7467.4 KB)
+0029.157 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: size is now: 9.20 MB
+0029.168 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2100 files added (on-disk size: 9451.6 KB)
+0029.206 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2200 files added (on-disk size: 9451.6 KB)
+0029.249 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2300 files added (on-disk size: 9451.6 KB)
+0029.284 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2400 files added (on-disk size: 9451.6 KB)
+0029.320 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2500 files added (on-disk size: 9451.6 KB)
+0029.330 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (20.2 MB, 3973 files batched, 501 (2505) added so far); re-opening (prior size: 9451.6 KB)
+0038.155 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: size is now: 14.80 MB
+0038.210 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2600 files added (on-disk size: 15165.1 KB)
+0038.216 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2700 files added (on-disk size: 15165.1 KB)
+0038.229 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2800 files added (on-disk size: 15165.1 KB)
+0038.243 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 2900 files added (on-disk size: 15165.1 KB)
+0038.249 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3000 files added (on-disk size: 15165.1 KB)
+0038.254 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 3973 files batched, 501 (3006) added so far); re-opening (prior size: 15165.1 KB)
+0044.698 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3100 files added (on-disk size: 16042.6 KB)
+0044.704 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3200 files added (on-disk size: 16042.6 KB)
+0044.717 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3300 files added (on-disk size: 16042.6 KB)
+0044.722 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3400 files added (on-disk size: 16042.6 KB)
+0044.728 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3500 files added (on-disk size: 16042.6 KB)
+0044.730 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.2 MB, 3973 files batched, 501 (3507) added so far); re-opening (prior size: 16042.6 KB)
+0046.505 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3600 files added (on-disk size: 17166.3 KB)
+0046.511 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3700 files added (on-disk size: 17166.3 KB)
+0046.519 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3800 files added (on-disk size: 17166.3 KB)
+0046.532 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: 3900 files added (on-disk size: 17166.3 KB)
+0051.168 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip.tmp: size is now: 20.30 MB
+0051.532 (0) Created plugins zip (0) - 20796.2 KB in 51.3 s (405.6 KB/s) (sha1: 97e8fe2d72235320f627da2a09d105b21727e79b, sha256: 3773fd249908f778b84170e406fcaf39c33c5300e7c8678e2f41fa127dd922d8)
+0051.537 (0) Beginning creation of dump of themes (split every: 400 MB)
+0051.672 (0) Total entities for the zip file: 45 directories, 244 files (0 skipped as non-modified), 5.7 MB
+0051.681 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0051.689 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0052.286 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip.tmp: size is now: 2.30 MB
+0052.331 (0) Created themes zip (0) - 2327.3 KB in 0.7 s (3429.4 KB/s) (sha1: 55abc6a4a729f3a10fc5f6ac96fb22136cdc115b, sha256: 0abf52cd1ce80d2d5df90ec4a34891a0634865b919a40a4465e1a37677827cea)
+0052.335 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0052.336 (0) Looking for candidates to backup in: /home/m4udo2iwm8rm/public_html/wp-content/uploads
+0052.337 (0) finding files: et_temp: adding to list (1)
+0052.338 (0) finding files: ShortpixelBackups: adding to list (2)
+0052.338 (0) finding files: wpseo-redirects: adding to list (3)
+0052.339 (0) finding files: redux: adding to list (4)
+0052.340 (0) finding files: 2017: adding to list (5)
+0052.340 (0) finding files: 2016: adding to list (6)
+0052.341 (0) finding files: 2018: adding to list (7)
+0052.342 (0) finding files: wordpress-4.9.6-no-content-qh4jfK.tmp: adding to list (8)
+0052.342 (0) finding files: mc4wp-debug-log.php: adding to list (9)
+0052.343 (0) finding files: 2013: adding to list (10)
+0052.344 (0) finding files: .shortpixel-q-1: adding to list (11)
+0052.344 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0052.442 (0) Total entities for the zip file: 28 directories, 429 files (0 skipped as non-modified), 10.5 MB
+0052.448 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0052.453 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0052.458 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0052.464 (0) Zip: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0052.822 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip.tmp: size is now: 10.60 MB
+0052.980 (0) Created uploads zip (0) - 10815.2 KB in 0.6 s (19511.5 KB/s) (sha1: a7d3114b3fa8b889f271159ad21b38563463be79, sha256: 0d7f41fa13dc5bf96dbb1039c4c1da5c4716a8e176e4e831ecceae4ef4e5387e)
+0052.982 (0) Beginning backup of other directories found in the content directory (index: 0)
+0052.983 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0052.984 (0) Looking for candidates to backup in: /home/m4udo2iwm8rm/public_html/wp-content
+0052.984 (0) finding files: languages: adding to list (1)
+0052.985 (0) finding files: .htaccess: adding to list (2)
+0052.985 (0) finding files: w3tc-config: adding to list (3)
+0052.986 (0) finding files: updraft: skipping: this is the updraft directory
+0052.986 (0) finding files: blogs.dir: adding to list (4)
+0052.987 (0) finding files: uploads: skipping: this is the uploads directory
+0052.988 (0) finding files: cache: skipping: excluded by options
+0052.988 (0) finding files: index.php: adding to list (5)
+0052.989 (0) finding files: upgrade: skipping: excluded by options
+0052.989 (0) finding files: plugins: skipping: this is the plugins directory
+0052.990 (0) finding files: mu-plugins: adding to list (6)
+0052.990 (0) finding files: htaccess.backup: adding to list (7)
+0052.991 (0) finding files: themes: skipping: this is the themes directory
+0053.056 (0) Total entities for the zip file: 4 directories, 5 files (0 skipped as non-modified), 0 MB
+0053.066 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-others.zip.tmp: size is now: 0.00 MB
+0053.070 (0) Created others zip (0) - 6.5 KB in 0 s (390.6 KB/s) (sha1: aa9a3f1b477ab18e34e19550b736242acc21cee1, sha256: ecb84cadc944fd2fc6f8839181c14e9bc64628d31aff1f7751cc30c619592834)
+0053.074 (0) Saving backup status to database (elements: 8)
+0053.077 (0) Beginning creation of database dump (WordPress DB)
+0053.079 (0) Testing: /usr/bin/mysqldump
+0053.103 (0) Binary mysqldump: error (code: 2)
+0053.108 (0) Table wp_options: Total expected rows (approximate): 801
+0053.159 (0) Table wp_options: Total rows added: 797 in 0.05 seconds
+0053.160 (0) Table wp_options: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_options.table.gz - 196.2 KB)
+0053.163 (0) Table wp_users: Total expected rows (approximate): 8
+0053.165 (0) Table wp_users: Total rows added: 8 in 0.00 seconds
+0053.166 (0) Table wp_users: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_users.table.gz - 1.2 KB)
+0053.170 (0) Table wp_usermeta: Total expected rows (approximate): 226
+0053.173 (0) Table wp_usermeta: Total rows added: 226 in 0.00 seconds
+0053.174 (0) Table wp_usermeta: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_usermeta.table.gz - 7.2 KB)
+0053.177 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0053.179 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0053.180 (0) Table wp_commentmeta: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0053.184 (0) Table wp_comments: Total expected rows (approximate): 1
+0053.186 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0053.187 (0) Table wp_comments: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_comments.table.gz - 0.7 KB)
+0053.191 (0) Table wp_links: Total expected rows (approximate): 7
+0053.194 (0) Table wp_links: Total rows added: 7 in 0.00 seconds
+0053.195 (0) Table wp_links: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_links.table.gz - 0.6 KB)
+0053.198 (0) Table wp_postmeta: Total expected rows (approximate): 18493
+0053.506 (0) Table wp_postmeta: Total rows added: 18493 in 0.31 seconds
+0053.508 (0) Table wp_postmeta: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_postmeta.table.gz - 207 KB)
+0053.513 (0) Table wp_posts: Total expected rows (approximate): 1197
+0053.649 (0) Table wp_posts: Total rows added: 1197 in 0.14 seconds
+0053.651 (0) Table wp_posts: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_posts.table.gz - 204.3 KB)
+0053.657 (0) Table wp_term_relationships: Total expected rows (approximate): 3722
+0053.685 (0) Table wp_term_relationships: Total rows added: 3722 in 0.03 seconds
+0053.687 (0) Table wp_term_relationships: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_term_relationships.table.gz - 11.1 KB)
+0053.692 (0) Table wp_term_taxonomy: Total expected rows (approximate): 1016
+0053.717 (0) Table wp_term_taxonomy: Total rows added: 1016 in 0.02 seconds
+0053.719 (0) Table wp_term_taxonomy: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_term_taxonomy.table.gz - 34.5 KB)
+0053.724 (0) Table wp_termmeta: Total expected rows (approximate): 630
+0053.740 (0) Table wp_termmeta: Total rows added: 630 in 0.01 seconds
+0053.742 (0) Table wp_termmeta: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_termmeta.table.gz - 22.9 KB)
+0053.747 (0) Table wp_terms: Total expected rows (approximate): 1016
+0053.763 (0) Table wp_terms: Total rows added: 1016 in 0.02 seconds
+0053.765 (0) Table wp_terms: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_terms.table.gz - 13.3 KB)
+0053.770 (0) Table wp_es_deliverreport: Total expected rows (approximate): 3
+0053.774 (0) Table wp_es_deliverreport: Total rows added: 3 in 0.00 seconds
+0053.775 (0) Table wp_es_deliverreport: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_deliverreport.table.gz - 0.6 KB)
+0053.780 (0) Table wp_es_emaillist: Total expected rows (approximate): 12
+0053.784 (0) Table wp_es_emaillist: Total rows added: 12 in 0.00 seconds
+0053.785 (0) Table wp_es_emaillist: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_emaillist.table.gz - 1 KB)
+0053.791 (0) Table wp_es_notification: Total expected rows (approximate): 1
+0053.794 (0) Table wp_es_notification: Total rows added: 1 in 0.00 seconds
+0053.795 (0) Table wp_es_notification: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_notification.table.gz - 0.5 KB)
+0053.801 (0) Table wp_es_sentdetails: Total expected rows (approximate): 3
+0053.805 (0) Table wp_es_sentdetails: Total rows added: 3 in 0.00 seconds
+0053.806 (0) Table wp_es_sentdetails: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_sentdetails.table.gz - 1.4 KB)
+0053.811 (0) Table wp_ewwwio_images: Total expected rows (approximate): 8
+0053.815 (0) Table wp_ewwwio_images: Total rows added: 8 in 0.00 seconds
+0053.816 (0) Table wp_ewwwio_images: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_ewwwio_images.table.gz - 0.9 KB)
+0053.821 (0) Table wp_social_users: Total expected rows (approximate): 4
+0053.824 (0) Table wp_social_users: Total rows added: 4 in 0.00 seconds
+0053.825 (0) Table wp_social_users: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_social_users.table.gz - 0.4 KB)
+0053.830 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 27
+0053.834 (0) Table wp_yoast_seo_links: Total rows added: 27 in 0.00 seconds
+0053.835 (0) Table wp_yoast_seo_links: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_yoast_seo_links.table.gz - 1 KB)
+0053.840 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 1152
+0053.849 (0) Table wp_yoast_seo_meta: Total rows added: 1152 in 0.01 seconds
+0053.850 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_yoast_seo_meta.table.gz - 3.3 KB)
+0053.855 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_options.table.gz (1/20): adding to final database dump
+0053.936 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_users.table.gz (2/20): adding to final database dump
+0053.938 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_usermeta.table.gz (3/20): adding to final database dump
+0053.942 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_commentmeta.table.gz (4/20): adding to final database dump
+0053.943 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_comments.table.gz (5/20): adding to final database dump
+0053.944 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_links.table.gz (6/20): adding to final database dump
+0053.945 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_postmeta.table.gz (7/20): adding to final database dump
+0054.086 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_posts.table.gz (8/20): adding to final database dump
+0054.182 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_term_relationships.table.gz (9/20): adding to final database dump
+0054.194 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_term_taxonomy.table.gz (10/20): adding to final database dump
+0054.209 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_termmeta.table.gz (11/20): adding to final database dump
+0054.221 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_terms.table.gz (12/20): adding to final database dump
+0054.229 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_deliverreport.table.gz (13/20): adding to final database dump
+0054.231 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_emaillist.table.gz (14/20): adding to final database dump
+0054.232 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_notification.table.gz (15/20): adding to final database dump
+0054.233 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_es_sentdetails.table.gz (16/20): adding to final database dump
+0054.234 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_ewwwio_images.table.gz (17/20): adding to final database dump
+0054.235 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_social_users.table.gz (18/20): adding to final database dump
+0054.236 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_yoast_seo_links.table.gz (19/20): adding to final database dump
+0054.237 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db-table-wp_yoast_seo_meta.table.gz (20/20): adding to final database dump
+0054.240 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz: finished writing out complete database file (688 KB)
+0054.263 (0) Total database tables backed up: 20 (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz, size: 722755, sha256)
+0054.271 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0054.272 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0054.273 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0054.274 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-others.zip: others: This file has not yet been successfully uploaded: will queue
+0054.275 (0) backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz: db: This file has not yet been successfully uploaded: will queue
+0054.276 (0) Saving backup history. Total backup size: 33.8 MB
+0054.280 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0054.284 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0054.285 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-90bc6ebcf9030a0a455acda0c1f532fd)
+0054.286 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0054.293 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0054.871 (0) Dropbox quota usage: used=716.8 MB, total=2048 MB, available=1331.2 MB
+0054.872 (0) Dropbox: Attempt to upload: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip to: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip
+0057.530 (0) Dropbox chunked upload: 4.9 % uploaded (AAAAAAAAAJUo21bMq-rOfg, 1048576, 3072 KB)
+0060.294 (0) Dropbox chunked upload: 19.7 % uploaded (AAAAAAAAAJUo21bMq-rOfg, 4194304, 9728 KB)
+0063.659 (0) Dropbox chunked upload: 66.5 % uploaded (AAAAAAAAAJUo21bMq-rOfg, 14155776, 10240 KB)
+0071.101 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAJUo21bMq-rOfg, 21295288, 10240 KB)
+0072.273 (0) Recording as successfully uploaded: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip
+0072.291 (0) Deleting local file: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip: OK
+0072.292 (0) Dropbox: File upload success (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-plugins.zip): 20796 KB in 17s (1193 KB/s)
+0072.623 (0) Dropbox quota usage: used=737.1 MB, total=2048 MB, available=1310.9 MB
+0072.624 (0) Dropbox: Attempt to upload: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip to: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip
+0074.599 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAJY4HuAbrL1zbA, 2383193, 10240 KB)
+0079.137 (0) Recording as successfully uploaded: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip
+0079.143 (0) Deleting local file: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip: OK
+0079.144 (0) Dropbox: File upload success (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-themes.zip): 2327 KB in 6s (356 KB/s)
+0079.587 (0) Dropbox quota usage: used=739.3 MB, total=2048 MB, available=1308.7 MB
+0079.588 (0) Dropbox: Attempt to upload: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip to: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip
+0082.827 (0) Dropbox chunked upload: 94.7 % uploaded (AAAAAAAAAJf6zzsZ8xk_Ag, 10485760, 10240 KB)
+0086.424 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAJf6zzsZ8xk_Ag, 11074769, 10240 KB)
+0088.793 (0) Recording as successfully uploaded: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip
+0088.800 (0) Deleting local file: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip: OK
+0088.800 (0) Dropbox: File upload success (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-uploads.zip): 10815 KB in 9s (1174 KB/s)
+0089.322 (0) Dropbox quota usage: used=749.9 MB, total=2048 MB, available=1298.1 MB
+0089.324 (0) Dropbox: Attempt to upload: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-others.zip to: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-others.zip
+0089.845 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAJiUqEXzEwkjvw, 6706, 10240 KB)
+0092.253 (0) Recording as successfully uploaded: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-others.zip
+0092.257 (0) Deleting local file: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-others.zip: OK
+0092.258 (0) Dropbox: File upload success (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-others.zip): 6 KB in 2s (2 KB/s)
+0092.667 (0) Dropbox quota usage: used=749.9 MB, total=2048 MB, available=1298.1 MB
+0092.668 (0) Dropbox: Attempt to upload: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz to: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz
+0094.146 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAJlDMdLiBiFulQ, 722755, 10240 KB)
+0095.540 (0) Recording as successfully uploaded: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz
+0095.546 (0) Deleting local file: backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz: OK
+0095.547 (0) Dropbox: File upload success (backup_2018-08-29-2358_OffersAtHome_e6bce0548202-db.gz): 705 KB in 2s (245 KB/s)
+0095.555 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0095.558 (0) Number of backup sets in history: 3; groups (db): 1
+0095.559 (0) Examining (for databases) backup set with group_id=0, nonce=e6bce0548202, datestamp=1535567326 (Aug 29 2018 18:28:46)
+0095.560 (0) This backup set is the backup set just made, so will not be deleted.
+0095.560 (0) Examining (for databases) backup set with group_id=0, nonce=3a9844fde524, datestamp=1535567050 (Aug 29 2018 18:24:10)
+0095.560 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0095.561 (0) Examining (for databases) backup set with group_id=0, nonce=99ec106a689a, datestamp=1531741450 (Jul 16 2018 11:44:10)
+0095.561 (0) 1531741450: db: this set includes a database (backup_2018-07-16-1714_OffersAtHome_99ec106a689a-db.gz); db count is now 2
+0095.561 (0) 1531741450: db: over retain limit (2); will delete this database
+0095.562 (0) Delete file: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-db.gz, service=dropbox
+0095.565 (0) Dropbox: request deletion: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-db.gz
+0096.510 (0) Dropbox: delete succeeded
+0096.513 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0096.514 (0) Number of backup sets in history: 3; groups (files): 1
+0096.515 (0) Examining (for files) backup set with nonce=e6bce0548202, datestamp=1535567326 (Aug 29 2018 18:28:46)
+0096.515 (0) This backup set is the backup set just made, so will not be deleted.
+0096.516 (0) This backup set is the backup set just made, so will not be deleted.
+0096.517 (0) This backup set is the backup set just made, so will not be deleted.
+0096.517 (0) This backup set is the backup set just made, so will not be deleted.
+0096.517 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0096.518 (0) Examining (for files) backup set with nonce=3a9844fde524, datestamp=1535567050 (Aug 29 2018 18:24:10)
+0096.518 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0096.518 (0) Examining (for files) backup set with nonce=99ec106a689a, datestamp=1531741450 (Jul 16 2018 11:44:10)
+0096.518 (0) plugins: over retain limit (2); will delete this file entity
+0096.518 (0) themes: over retain limit (2); will delete this file entity
+0096.518 (0) uploads: over retain limit (2); will delete this file entity
+0096.518 (0) others: over retain limit (2); will delete this file entity
+0096.518 (0) Delete file: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-plugins.zip, service=dropbox
+0096.519 (0) Delete file: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-themes.zip, service=dropbox
+0096.520 (0) Delete file: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-uploads.zip, service=dropbox
+0096.521 (0) Delete file: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-others.zip, service=dropbox
+0096.566 (0) Dropbox: request deletion: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-plugins.zip
+0097.324 (0) Dropbox: delete succeeded
+0097.335 (0) Dropbox: request deletion: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-themes.zip
+0097.984 (0) Dropbox: delete succeeded
+0097.986 (0) Dropbox: request deletion: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-uploads.zip
+0098.683 (0) Dropbox: delete succeeded
+0098.684 (0) Dropbox: request deletion: backup_2018-07-16-1714_OffersAtHome_99ec106a689a-others.zip
+0099.332 (0) Dropbox: delete succeeded
+0099.336 (0) This backup set is now empty; will remove from history
+0099.337 (0) Deleting log file (log.99ec106a689a.txt)
+0099.338 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0099.344 (0) Resume backup (e6bce0548202, 0): finish run
+0099.347 (0) Decremented the semaphore (fd) by 1
+0099.349 (0) Semaphore (fd) unlocked
+0099.350 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0099.371 (0) Fetching RSS news feed
+0099.403 (0) Fetched RSS news feed; result is a: SimplePie
+0099.433 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: abhis...
+0099.639 (0) The backup apparently succeeded and is now complete

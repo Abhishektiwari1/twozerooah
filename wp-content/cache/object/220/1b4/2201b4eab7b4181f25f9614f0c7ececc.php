@@ -1,0 +1,7 @@
+ÒO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:44:"https://clk.omgt5.com/?AID=1561508&PID=10530";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"2202";}s:16:"_wpc_store_image";a:1:{i:0;s:81:"https://www.offersathome.com/wp-content/uploads/2018/07/shopclues_india_logo-.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"5";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"6";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:1:"9";}s:15:"_wpc_extra_info";a:1:{i:0;s:1027:"<strong>About Shopclues</strong>
+
+Shopclues is the fastest growing online shopping portal in india. They have experience in online selling of branded mobiles, tablets, computer, home appliances, cameras, electronics, Auto Accessories, Fashion Products, Lifestyle Products, Jewelry, Watches, Beauty Products, Health Products, Books, Perfumes, Kids Products, Gaming Consoles and much more. It is also famous for its jaw dropping deals which they roll out occasionally.
+
+<strong>How Shopclues and offers work at OffersAtHome?</strong>
+
+Shopclues brings promotional offers and discounts for its customers. Enjoy great offers on products. Shopclues is offering a discount on select orders and other amazing deals on others, we can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Shopclues carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete your shopping hassle free.";}}}

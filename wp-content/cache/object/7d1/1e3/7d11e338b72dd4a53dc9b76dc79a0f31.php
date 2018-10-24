@@ -1,0 +1,7 @@
+ÒO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:64:"http://tracking.vcommission.com/aff_c?offer_id=7270&aff_id=78587";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"2201";}s:16:"_wpc_store_image";a:1:{i:0;s:67:"https://www.offersathome.com/wp-content/uploads/2018/07/Rosegal.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"0";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:2:"12";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:2:"11";}s:15:"_wpc_extra_info";a:1:{i:0;s:1046:"<strong>About Rosegal</strong>
+
+Rosegal is an online shopping website that has thousands of styles to match up every mood and occasion. They understand the need of their customer and hence provide quality products at a very low prices.They beleive that human live and breathe fashion besides of the fact latest or old. Also they make us realize that fashion is not just a style it is an attitude and a lifestyle. Catch all the latest trends in fashion through their trendy designs.
+
+<strong>How Rosegal and offers work at OffersAtHome?</strong>
+
+Rosegal brings promotional offers and discounts for its customers. Enjoy great offers on products. rosegal is offering a discount of upto 90% on select orders and other amazing deals on others, we can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of rosegal carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete your shopping hassle free.";}}}

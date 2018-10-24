@@ -1,0 +1,11 @@
+ÔO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:64:"http://tracking.vcommission.com/aff_c?offer_id=1490&aff_id=78587";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5670";}s:16:"_wpc_store_image";a:1:{i:0;s:64:"https://www.offersathome.com/wp-content/uploads/2018/09/BIBA.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"4";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:2:"12";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:2:"12";}s:15:"_wpc_extra_info";a:1:{i:0;s:1745:"<strong>About BIBA</strong>
+
+Biba is a best Indian form wear mark for ladies, considered one of most in vogue ethnical wear brands. Having begun at the owner, Meena Bindra's home in New Delhi, it presently has in excess of 150 brand outlets and 225-mark outlets everywhere throughout the nation. It has been in the disconnected market for quite a while and afterward propelled the Biba online site to take into account the online purchasers too. Biba offers profoundly chic but then conventional kurti outlines to all the design cognizant ladies out there. It takes into account all the Indian ladies around the globe, however the primary concentrate stays on the magnificence and ethnicity of the Indian ladies. To make shopping with Biba less demanding for your, we have acquired the best Biba coupons here, on Offersathome.com
+
+<strong>How Biba deals and offers work at OffersAtHome?</strong>
+
+Biba brings promotional discount and offers to its customers to make ethnic shopping more pleasurable and easy on pocket. Enjoy discount on all the items accross the site. We can help you save by bringing you deals, promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Biba carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete your shopping hassle free. Choose OffersAtHome and we will be your ultimate saving partner.
+
+<strong>Related Stores</strong>
+
+Amazon|<a href="https://www.offersathome.com/store/myntra/">Myntra</a>|<a href="https://www.offersathome.com/store/jabong/">Jabong</a>|<a href="https://www.offersathome.com/store/ajio/">AJIO</a>|<a href="https://www.offersathome.com/store/tatacliq/">TataCliQ</a>";}}}

@@ -1,0 +1,11 @@
+ÒO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:44:"https://clk.omgt5.com/?AID=1561508&PID=12429";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5676";}s:16:"_wpc_store_image";a:1:{i:0;s:67:"https://www.offersathome.com/wp-content/uploads/2018/09/CHUMBAK.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"1";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:2:"11";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:2:"12";}s:15:"_wpc_extra_info";a:1:{i:0;s:1647:"<strong>About Chumbak</strong>
+
+Chumbak was founded in 2010 in Bangalore, with an idea of creating fun products for India and Indians. The aim is to give the world something fun to take back from their travel to india. They have a love for design above everything else. They knew little that what would follow them. It started with souvernier stocked in multibrand showroom and then soon transformed into a business spanning across the country in form of full experience store and popup stores across popular malls and high streets. Their designs and colours can attract anyone to try their products once. All their merchandise is available online at Chumbak.com on very attractive price.
+
+<strong>How Chumbak deals and offers work at OffersAtHome?</strong>
+
+Chumbak brings promotional offers and discounts for its customers. Enjoy great offers on products. Chumbak is offering a discount of 20% to upto 70% on select offers, we can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Chumbak carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete shopping for your favourite products hassle free.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/happilyunmarried/">HappilyUnmarried</a>|<a href="https://www.offersathome.com/store/amazon/">Amazon</a>|<a href="https://www.offersathome.com/store/flipkart/">Flipkart</a>|<a href="https://www.offersathome.com/store/snapdeal/">Snapdeal</a>|<a href="https://www.offersathome.com/store/shopclues/">ShopClues</a>";}}}

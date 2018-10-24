@@ -1,0 +1,11 @@
+ÒO–[<?php exit; ?>a:1:{s:7:"content";a:8:{s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5419";}s:16:"_wpc_store_image";a:1:{i:0;s:64:"https://www.offersathome.com/wp-content/uploads/2018/09/Bata.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:2:"10";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"0";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:18:"_wpc_store_aff_url";a:1:{i:0;s:64:"http://tracking.vcommission.com/aff_c?offer_id=7495&aff_id=78587";}s:15:"_wpc_extra_info";a:1:{i:0;s:1729:"<strong>About Bata</strong>
+
+Do you know Bata is a multinational shoe brand? Surprised! Yes Bata was launched way back in 1894 in Switzerland. It has a presence of over 5300 shops in over 70 countries and production facility in 18 countries. It is a leading manufacturer of footwear in india and was incorporated in 1931. Since then it has been growing in leaps and bounds. It manufactures footwear and fashion accessories and retails them as well .They have a large range of patterns, fabrics &amp; texture have all put together in collection. They have relatively standard budget footwear choices which make them even more popular in India considering the terrain and socio economical conditions. But above all Bata is known for its quality and durability which has made it a household name through the century.
+
+<strong>How Bata deals and offers work at OffersAtHome?</strong>
+
+Bata brings promotional discount and offers to its customers. Enjoy discount on all orders. Here at OffersAtHome, We can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Bata carefully curated for you. Click on the offers that fit into your requirements and click on go store and shop for your favourite footwear and accessory from their wide collection and enjoy reduced prices.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/adidas/">Adidas</a>|<a href="https://www.offersathome.com/store/reebok/">Reebok</a>|<a href="https://www.offersathome.com/store/amazon/">Amazon</a>|<a href="https://www.offersathome.com/store/flipkart/">Flipkart</a>|<a href="https://www.offersathome.com/store/tatacliq/">TataCLiQ</a>";}s:11:"_wpc_go_out";a:1:{i:0;s:1:"6";}}}

@@ -1,0 +1,11 @@
+ñOÐ[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:22:"https://www.yatra.com/";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5692";}s:16:"_wpc_store_image";a:1:{i:0;s:65:"https://www.offersathome.com/wp-content/uploads/2018/09/YATRA.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:2:"10";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"0";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:15:"_wpc_extra_info";a:1:{i:0;s:1687:"<strong>About Yatra</strong>
+
+Yatra is one of the leading travel portal in india, they have roped in ambassadors like salman khan which helped them to become Indiaâ€™s one the the most recognized and preffered flight and hotel booking portal. It was started in 2006 and since then they have dominated their segment. It has association with more than 5000 hotels across 336 cities in india and over 90000 hotels across the globe for hotel bookings. They also provide bookings for almost all major domestic and international carriers including GO Air, Air India, Spice Jet, Lufthansa, British Airways, and Air Asia etc.
+
+<strong>How Yatra deals and offers work at OffersAtHome?</strong>
+
+Yatra brings promotional offers and discounts for its customers. Enjoy great offers on Hotels and flight Bookings. Yatra is offering a discount on the selected orders, we can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of Yatra carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete your bookings hassle free.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/cleartrip/">ClearTrip</a>|<a href="https://www.offersathome.com/store/kiwi-com/">Kiwi</a>|<a href="https://www.offersathome.com/store/easemytrip/">EaseMyTrip</a>|<a href="https://www.offersathome.com/store/hotels-com/">Hotels.com</a>|<a href="https://www.offersathome.com/store/makemytrip/">MakeMyTrip</a> | <a href="https://www.offersathome.com/store/travelguru/">Travelguru</a>| <a href="https://www.offersathome.com/store/expedia/">Expedia</a>";}s:11:"_wpc_go_out";a:1:{i:0;s:1:"3";}}}

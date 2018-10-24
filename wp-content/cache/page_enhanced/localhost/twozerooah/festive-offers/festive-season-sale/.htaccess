@@ -1,0 +1,10 @@
+<IfModule mod_headers.c>
+    Header unset Link
+    Header add Link '</twozerooah/wp-content/cache/minify/3f459.js>; rel=preload; as=script'
+    Header add Link '</twozerooah/wp-content/cache/minify/1cd06.js>; rel=preload; as=script'
+    Header add Link '</twozerooah/wp-content/cache/minify/612fd.js>; rel=preload; as=script'
+    Header add Link '</twozerooah/wp-content/cache/minify/6efe7.js>; rel=preload; as=script'
+    Header add Link '</twozerooah/wp-content/cache/minify/a3eb5.js>; rel=preload; as=script'
+    Header add Link '</twozerooah/wp-content/cache/minify/87f76.js>; rel=preload; as=script'
+    Header add Link '</twozerooah/wp-content/cache/minify/500b7.css>; rel=preload; as=style'
+</IfModule>

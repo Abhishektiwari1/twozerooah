@@ -1,0 +1,3 @@
+try{jQuery(document).ready(function(){jQuery(".st-slider").each(function(i){var s=jQuery(this);if(s.hasClass('slider-added')){return false;}
+s.addClass('slider-added');var settings=s.attr('data-settings');var settings=s.attr('data-settings');try{settings=JSON.parse(settings);}catch(e){}
+var _default={navigation:true,navigationText:false,slideSpeed:300,paginationSpeed:400,singleItem:true,autoPlay:true,stopOnHover:true,lazyLoad:true,afterInit:function(){s.closest('.widget').fadeIn(500);}};jQuery.extend(_default,settings);s.owlCarousel(_default);});});}catch(e){}

@@ -1,0 +1,11 @@
+�O�[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:63:"http://tracking.vcommission.com/aff_c?offer_id=787&aff_id=78587";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"5909";}s:16:"_wpc_store_image";a:1:{i:0;s:75:"https://www.offersathome.com/wp-content/uploads/2018/10/floweraura-logo.png";}s:16:"_wpc_coupon_code";a:1:{i:0;s:2:"19";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:1:"0";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:11:"_wpc_go_out";a:1:{i:0;s:2:"13";}s:15:"_wpc_extra_info";a:1:{i:0;s:1674:"<strong>About Floweraura</strong>
+
+Floweraura.com is one of the most recent online shopping portal in India which Offers Flowers and Gift Deliveries in India. They offer flower deliveries in almost all cities across India and also have special facilities such as mid-night deliveries. They even have Cakes and Combo Offers for making your events and gifting sweeter. Whether it’s valentine’s day or rose day, flowers are forever. In fact you don’t need an occasion to make the moment look even more mesmerizing and sometimes flower isn’t enough you certainly want some accessorizing to go along with it.
+
+<strong>How Floweraura and offers work at OffersAtHome?</strong>
+
+OffersAtHome has the best Offers and deals on Floweraura for you. Avail these amazing Floweraura Deals,Coupons, Offers &amp; Promo Codes for gifts, flowers and personalised products. To use the deals and offers you have to follow simple steps. Go to OffersAtHome and browse for Floweraura offers, deals and coupon codes. You will find a list of Floweraura coupon codes and deals. Just select the offers which fit in to your requirements and click on Show Coupon Code or Activate Offer next to the deal you want to use.Copy the Code and click go to store. Enjoy shopping for gifts and flowers and simply apply the discount code on the Checkout Page while placing the order and get the item on reduced price. Each Floweraura offer has a validity time, so to make the most of it, just stay connected at this page on OffersAtHome and we will be your ultimate saving destination.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/fernsnpetals/">FernsNPetals</a>|";}}}

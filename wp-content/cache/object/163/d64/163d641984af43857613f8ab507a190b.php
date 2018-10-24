@@ -1,0 +1,13 @@
+ñOÐ[<?php exit; ?>a:1:{s:7:"content";a:8:{s:18:"_wpc_store_aff_url";a:1:{i:0;s:44:"https://clk.omgt5.com/?AID=1561508&PID=32412";}s:19:"_wpc_store_image_id";a:1:{i:0;s:4:"4466";}s:16:"_wpc_store_image";a:1:{i:0;s:66:"https://www.offersathome.com/wp-content/uploads/2018/08/EzMall.jpg";}s:16:"_wpc_coupon_code";a:1:{i:0;s:1:"0";}s:16:"_wpc_coupon_sale";a:1:{i:0;s:2:"10";}s:17:"_wpc_coupon_print";a:1:{i:0;s:1:"0";}s:15:"_wpc_extra_info";a:1:{i:0;s:1968:"<strong>About EzMall</strong>
+
+EZMall is a video-driven online shoppingÂ  site. Why go to an extravagant strip mall when you can simply purchase from a shopping center from your workstation? Don't simply shop. Upgrade the shopping knowledge by finding the most recent items and patterns through item recordings and master tips. They likewise have a blog, on the off chance that you require help or need to peruse articles on kitchen formulas! EZMall is where you can shop all the broadly useful, way of life and utility items online in India. The classifications accessible at the site are ladies, men, gadgets, machines, home and kitchen, and so forth. Every class has most extravagant gathering of items that you will love having around in your home. The costing of the items is likewise done mindfully. The items are grouped in different accommodating segments with the goal that you can see the smash hit items and make certain buys. Visit and look at the gathering at the site and help yourself with the buys. Upbeat Shopping!
+
+&nbsp;
+
+<strong>How EzMall and offers work at OffersAtHome?</strong>
+
+EzMall brings promotional offers and discounts for its customers. Enjoy great offers on products. EZMall is offering a discount upto 80% on select offers and other amazing deals on others, we can help you save by bringing you promo codes and coupons. Just stay connected with OffersAtHome and you will get all the hottest deals and offers of EZ mall carefully curated for you. Click on the deals that fit into your requirements and click on go store and complete your shopping hassle free.
+
+<strong>Related Stores</strong>
+
+<a href="https://www.offersathome.com/store/zipker/">Zipker</a>|<a href="https://www.offersathome.com/store/shopclues/">ShopClues</a>|<a href="https://www.offersathome.com/store/snapdeal/">Snapdeal</a>|<a href="https://www.offersathome.com/store/voonik/">Voonik</a>|<a href="https://www.offersathome.com/store/gamiss/">Gamiss</a>";}s:11:"_wpc_go_out";a:1:{i:0;s:1:"2";}}}
